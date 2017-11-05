@@ -1,5 +1,5 @@
-var PoSToken = artifacts.require("./PoSToken.sol");
+var POStopia = artifacts.require("./POStopia.sol");
 
 module.exports = function(deployer) {
-    deployer.deploy(PoSToken);
+    deployer.deploy(POStopia);
 };

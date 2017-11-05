@@ -10,15 +10,15 @@ POStopia is a Proof-of-Stake smart contract token on Ethereum platform. It's bas
 * **Decimals**: 18
 * **Standard**: ERC20 & POStopia Token Standard
 * **Platform**: Ethereum
-* **Maximum Total Supply**: 10,000,000 PTX
-* **Initial Supply**: 1,000,000 PTX
+* **Maximum Total Supply**: 200,000,000 PTX
+* **Initial Supply**: 10,000,000 PTX
 * **Distribution**: Free Airdrop
 * **Minimum Coin Age**: 3 Days
 * **Maximum Coin Age**: 90 Days
 * **PoS Annual Interest**
-  + 1st Year Interest: 100%
-  + 2nd Year Interest: 50%
-  + 3rd - 15th Year Interest: 10%
+  + 1st Year Interest: 200%
+  + 2nd Year Interest: 100%
+  + 3rd - 15th Year Interest: 20%
 
 ## Resource
 **[Website](https://postopia.io)** | **[Whitepaper](https://postopia.io/whitepaper.pdf)** | **[Twitter](https://twitter/POStopia)**  | **[Bitcointalk](https://bitcointalk.org/index.php?topic=2110712.0)** | **[Slack](https://join.slack.com/t/postoken/shared_invite/enQtMjQ1OTA0MzA4MDAxLThjNWQxNjllNzEyM2VhMDYzMzc3N2I1MDc4NmU3NDM5YzFkNTJlZGIxMmEzMTZmOTgxN2MyYzhkNmYzYzY1MDM)** | **[Telegram](https://t.me/POStopia)**
