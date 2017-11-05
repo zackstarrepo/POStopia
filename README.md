@@ -4,7 +4,7 @@ The Proof-of-Stake Smart Contract Token on Ethereum
 ## What is Utopia Token
 Utopia Token a Proof-of-Stake smart contract token on Ethereum platform. It's based on the ERC20 Token Standard and implements all standard methods. As an Ethereum token, Utopia Token implements the Proof-of-Stake mechanism, meaning that every holder can earn some extra tokens just by holding Utopia Token for a period of at least 3 days, greater than or equal to The Minimum Coin Age.
 
-## Specifications of PoSToken
+## Specifications of Utopia Token
 * **Name**: Utopia Token
 * **Symbol**: UTP
 * **Decimals**: 18
